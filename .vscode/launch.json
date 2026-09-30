@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/danylo/Desktop/№3/lab3.1",
-      "program": "/Users/danylo/Desktop/№3/lab3.1/build/Debug/outDebug"
+      "cwd": "/Users/danylo/Desktop/№3/3.4",
+      "program": "/Users/danylo/Desktop/№3/3.4/build/Debug/outDebug"
     }
   ]
 }
